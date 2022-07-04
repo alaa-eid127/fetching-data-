@@ -1,2 +1,2 @@
-# fetching-data-
-fetching data by using pure promise javascript
+# fetching-data-react js
+fetching data by using a pure promise javascript in react framework
